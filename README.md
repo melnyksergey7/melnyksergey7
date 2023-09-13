@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, my name is Serhii👋
+
+### :man_technologist: About me:
+
+I'm a Fullstack developer with Upper Intermediate English. Proficient in React, JavaScript, HTML, CSS, TypeScript, Java, Node, Express.js, I'm drawn to projects that involve both frontend and backend aspects. 
+
+- Finish Mate Academy courses.
+- Solved more than 100 algoritmical tasks
+- How to connect: [![Telegram Badge](https://img.shields.io/badge/-serhiimelnyk-blue?style=flat&logo=Telegram&logoColor=white)](@serzhmelnyk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](melnykserhii01@gmail.com)
 
 <!--
 **melnyksergey7/melnyksergey7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
