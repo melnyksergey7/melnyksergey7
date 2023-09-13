@@ -6,7 +6,7 @@ I'm a Fullstack developer with Upper Intermediate English. Proficient in React, 
 
 - Finish Mate Academy courses.
 - Solved more than 100 algoritmical tasks
-- How to connect: [![Telegram Badge](https://img.shields.io/badge/-serhiimelnyk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/serzhmelnyk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](melnykserhii01@gmail.com)
+- How to connect: [![Telegram Badge](https://img.shields.io/badge/-serhiimelnyk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/serzhmelnyk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:melnykserhii01@gmail.com)
 
 <!--
 **melnyksergey7/melnyksergey7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
