@@ -26,6 +26,12 @@ I'm a Fullstack developer with Upper Intermediate English. Proficient in React, 
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
+---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Serhiimelnik/badges/large)
+
 <!--
 **melnyksergey7/melnyksergey7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
